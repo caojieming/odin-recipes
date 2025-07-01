@@ -1,0 +1,24 @@
+.title {
+    text-align: center;
+}
+
+.source-link {
+    text-align: center;
+}
+
+.food-image {
+    text-align: center;
+}
+
+.image-caption {
+    text-align: center;
+}
+
+.recipe-description,
+.ingredients-section,
+.ingredient-list,
+.cooking-section,
+.cooking-steps {
+    margin-left: 100px;
+    margin-right: 150px;
+}
